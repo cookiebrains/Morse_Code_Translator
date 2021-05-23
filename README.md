@@ -3,5 +3,5 @@ English to Morse Code translation with dot-dash string and windows audio outputs
 
 # Functionality
 - Command line user input
-- Returns a string of dots and dahses for characters and / for word spaces
+- Returns a string of dots and dahses corresonding to Morse Code translation of user input
 - Also returns a series of sounds for an audio version of the Morse Code
