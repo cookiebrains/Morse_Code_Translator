@@ -1,5 +1,5 @@
 # Morse_Code_Translator
-English to Morse Code translation with dot-dash string and windows audio outputs. 
+English to Morse Code translator
 
 # Functionality
 - Command line user input
